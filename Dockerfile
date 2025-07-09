@@ -1,1 +1,1 @@
-FROM neo4j:latest
+FROM neo4j:latest@sha256:f43cf862a088473a45a6a639f518af89ae6b1a742b6f6efe8317a4cc3ddb00a0
